@@ -3,7 +3,7 @@ import unittest
 
 class NewVisitorTest(unittest.TestCase):
     
-    def setup(self):
+    def setUp(self):
         self.browser = webdriver.Firefox()
     
     def tearDown(self):
