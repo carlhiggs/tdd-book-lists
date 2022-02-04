@@ -5,3 +5,4 @@ book-example
 __pycache__
 *.pyc
 superlists/__pycache__
+lists/__pycache__
