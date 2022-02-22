@@ -7,3 +7,4 @@ __pycache__
 superlists/__pycache__
 lists/__pycache__
 /static
+.env
